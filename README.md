@@ -11,10 +11,10 @@ This workflow automates the collection of UX test responses from a Google Form i
 
 ## Screenshots
 - Workflow in Make.com:
-![Workflow Screenshot]( )
+![Workflow Screenshot](Screenshot 2025-09-08 at 13-52-46 Integration Google Forms Make.png)
 
 - Data in Google Sheet:
-![Sheet Screenshot]( )
+![Sheet Screenshot](Screenshot 2025-09-08 140701.png)
 
 ## Notes
 - Responses are anonymous
