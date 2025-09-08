@@ -14,7 +14,7 @@ This workflow automates the collection of UX test responses from a Google Form i
 ![Workflow Screenshot](/google-form-to-sheets/Make.png)
 
 - Data in Google Sheet:
-![Sheet Screenshot](/google-form-ro-sheets/GoogleSheets.png)
+![Sheet Screenshot](/google-form-to-sheets/GoogleSheets.png)
 
 ## Notes
 - Responses are anonymous
